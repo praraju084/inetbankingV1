@@ -1,0 +1,98 @@
+2020-10-28 12:03:35 INFO  ebanking:16 - URL is opened
+2020-10-28 12:03:35 INFO  ebanking:20 - Entered username
+2020-10-28 12:03:35 INFO  ebanking:23 - Entered password
+2020-10-28 12:03:36 INFO  ebanking:32 - login test passed
+2020-10-28 12:05:06 INFO  ebanking:16 - URL is opened
+2020-10-28 12:05:06 INFO  ebanking:20 - Entered username
+2020-10-28 12:05:06 INFO  ebanking:23 - Entered password
+2020-10-28 12:05:07 INFO  ebanking:32 - login test passed
+2020-10-28 12:05:14 INFO  ebanking:19 - user name provided
+2020-10-28 12:05:14 INFO  ebanking:21 - password provided
+2020-10-28 12:06:40 INFO  ebanking:16 - URL is opened
+2020-10-28 12:06:40 INFO  ebanking:20 - Entered username
+2020-10-28 12:06:40 INFO  ebanking:23 - Entered password
+2020-10-28 12:06:41 INFO  ebanking:32 - login test passed
+2020-10-28 12:06:47 INFO  ebanking:19 - user name provided
+2020-10-28 12:06:47 INFO  ebanking:21 - password provided
+2020-10-28 12:24:14 INFO  ebanking:16 - URL is opened
+2020-10-28 12:24:14 INFO  ebanking:20 - Entered username
+2020-10-28 12:24:14 INFO  ebanking:23 - Entered password
+2020-10-28 12:24:15 INFO  ebanking:32 - login test passed
+2020-10-28 12:24:21 INFO  ebanking:19 - user name provided
+2020-10-28 12:24:21 INFO  ebanking:21 - password provided
+2020-10-28 12:32:32 INFO  ebanking:16 - URL is opened
+2020-10-28 12:32:33 INFO  ebanking:20 - Entered username
+2020-10-28 12:32:33 INFO  ebanking:23 - Entered password
+2020-10-28 12:32:34 INFO  ebanking:32 - login test passed
+2020-10-28 12:32:40 INFO  ebanking:19 - user name provided
+2020-10-28 12:32:40 INFO  ebanking:21 - password provided
+2020-10-28 12:32:48 INFO  ebanking:19 - user name provided
+2020-10-28 12:32:48 INFO  ebanking:21 - password provided
+2020-10-28 12:32:55 INFO  ebanking:19 - user name provided
+2020-10-28 12:32:55 INFO  ebanking:21 - password provided
+2020-10-28 12:34:31 INFO  ebanking:16 - URL is opened
+2020-10-28 12:34:31 INFO  ebanking:20 - Entered username
+2020-10-28 12:34:32 INFO  ebanking:23 - Entered password
+2020-10-28 12:34:32 INFO  ebanking:32 - login test passed
+2020-10-28 12:34:38 INFO  ebanking:19 - user name provided
+2020-10-28 12:34:38 INFO  ebanking:21 - password provided
+2020-10-28 12:35:04 INFO  ebanking:36 - Login Passed
+2020-10-28 12:36:32 INFO  ebanking:16 - URL is opened
+2020-10-28 12:36:32 INFO  ebanking:20 - Entered username
+2020-10-28 12:36:33 INFO  ebanking:23 - Entered password
+2020-10-28 12:36:33 INFO  ebanking:32 - login test passed
+2020-10-28 12:36:39 INFO  ebanking:19 - user name provided
+2020-10-28 12:36:39 INFO  ebanking:21 - password provided
+2020-10-28 12:36:47 INFO  ebanking:19 - user name provided
+2020-10-28 12:36:47 INFO  ebanking:21 - password provided
+2020-10-28 12:36:54 INFO  ebanking:19 - user name provided
+2020-10-28 12:36:54 INFO  ebanking:21 - password provided
+2020-10-28 12:39:29 INFO  ebanking:16 - URL is opened
+2020-10-28 12:39:30 INFO  ebanking:20 - Entered username
+2020-10-28 12:39:30 INFO  ebanking:23 - Entered password
+2020-10-28 12:39:31 INFO  ebanking:32 - login test passed
+2020-10-28 12:39:37 INFO  ebanking:19 - user name provided
+2020-10-28 12:39:37 INFO  ebanking:21 - password provided
+2020-10-28 12:39:45 INFO  ebanking:19 - user name provided
+2020-10-28 12:39:45 INFO  ebanking:21 - password provided
+2020-10-28 12:39:52 INFO  ebanking:19 - user name provided
+2020-10-28 12:39:52 INFO  ebanking:21 - password provided
+2020-10-28 12:41:09 INFO  ebanking:16 - URL is opened
+2020-10-28 12:41:09 INFO  ebanking:20 - Entered username
+2020-10-28 12:41:09 INFO  ebanking:23 - Entered password
+2020-10-28 12:41:10 INFO  ebanking:32 - login test passed
+2020-10-28 12:41:15 INFO  ebanking:19 - user name provided
+2020-10-28 12:41:15 INFO  ebanking:21 - password provided
+2020-10-28 12:41:26 INFO  ebanking:19 - user name provided
+2020-10-28 12:41:26 INFO  ebanking:21 - password provided
+2020-10-28 12:41:37 INFO  ebanking:19 - user name provided
+2020-10-28 12:41:37 INFO  ebanking:21 - password provided
+2020-10-28 12:41:45 INFO  ebanking:19 - user name provided
+2020-10-28 12:41:45 INFO  ebanking:21 - password provided
+2020-10-28 12:43:58 INFO  ebanking:16 - URL is opened
+2020-10-28 12:43:58 INFO  ebanking:20 - Entered username
+2020-10-28 12:43:58 INFO  ebanking:23 - Entered password
+2020-10-28 12:43:59 INFO  ebanking:32 - login test passed
+2020-10-28 12:44:05 INFO  ebanking:19 - user name provided
+2020-10-28 12:44:05 INFO  ebanking:21 - password provided
+2020-10-28 12:45:53 INFO  ebanking:16 - URL is opened
+2020-10-28 12:45:53 INFO  ebanking:20 - Entered username
+2020-10-28 12:45:53 INFO  ebanking:23 - Entered password
+2020-10-28 12:45:53 INFO  ebanking:32 - login test passed
+2020-10-28 12:45:59 INFO  ebanking:19 - user name provided
+2020-10-28 12:45:59 INFO  ebanking:21 - password provided
+2020-10-28 12:47:29 INFO  ebanking:16 - URL is opened
+2020-10-28 12:47:30 INFO  ebanking:20 - Entered username
+2020-10-28 12:47:30 INFO  ebanking:23 - Entered password
+2020-10-28 12:47:30 INFO  ebanking:32 - login test passed
+2020-10-28 12:47:36 INFO  ebanking:19 - user name provided
+2020-10-28 12:47:36 INFO  ebanking:21 - password provided
+2020-10-28 12:49:13 INFO  ebanking:16 - URL is opened
+2020-10-28 12:49:13 INFO  ebanking:20 - Entered username
+2020-10-28 12:49:13 INFO  ebanking:23 - Entered password
+2020-10-28 12:49:14 INFO  ebanking:32 - login test passed
+2020-10-28 12:49:20 INFO  ebanking:19 - user name provided
+2020-10-28 12:49:20 INFO  ebanking:21 - password provided
+2020-10-28 12:49:30 INFO  ebanking:19 - user name provided
+2020-10-28 12:49:30 INFO  ebanking:21 - password provided
+2020-10-28 12:49:34 INFO  ebanking:39 - Login Passed
